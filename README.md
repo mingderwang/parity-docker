@@ -20,5 +20,14 @@ docker-compose up -d
 ## if you don't have docker and docker-compose
 [try to install docker toolbox](https://www.docker.com/products/docker-toolbox)
 
-## if you event don't know what is Ethereum, I don't know how you to get here?
+## if you don't have any Ethereum account
+```
+$ geth account new
+Your new account is locked with a password. Please give a password. Do not forget this password.
+Passphrase:
+Repeat passphrase:
+Address: {9ac3188bf17297ff437be7853075591f3076761e}
+```
+
+## if you even don't know what is Ethereum, I don't know how you to get here?
 [readdoc](http://www.ethdocs.org/en/latest/)

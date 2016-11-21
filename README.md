@@ -28,6 +28,6 @@ Passphrase:
 Repeat passphrase:
 Address: {9ac3188bf17297ff437be7853075591f3076761e}
 ```
-
+or refer to [here](https://github.com/ethereum/go-ethereum/wiki/Managing-your-accounts)
 ## if you even don't know what is Ethereum, I don't know how you to get here?
 [readdoc](http://www.ethdocs.org/en/latest/)

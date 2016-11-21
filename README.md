@@ -17,3 +17,5 @@ docker-compose up -d
 ## how to use geth
 [here](https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console#personaldeleteaccount)
 
+## if you don't have docker and docker-compose
+[try to install docker toolbox](https://www.docker.com/products/docker-toolbox)

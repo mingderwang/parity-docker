@@ -19,3 +19,6 @@ docker-compose up -d
 
 ## if you don't have docker and docker-compose
 [try to install docker toolbox](https://www.docker.com/products/docker-toolbox)
+
+## if you event don't know what is Ethereum, I don't know how you to get here?
+[readdoc](http://www.ethdocs.org/en/latest/)
